@@ -26,7 +26,7 @@
 </br></br>
 
 ## 🛠️ Abrir e rodar o projeto
-- `Baixar projeto`: git clone git@github.com:Amanda92Cortez/Organograma.git
+- `Baixar projeto`: git clone https://github.com/Amanda92Cortez/Organograma_V1.git
 - `Baixar npm`: npm install
 - `Executar`: npm start
 </br></br>
