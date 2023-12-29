@@ -30,7 +30,9 @@
 </br></br>
 
 <h2>📚 Telas/Vídeos</h2>
-https://github.com/Amanda92Cortez/Organograma/assets/19363871/441cb7bc-270e-457c-918a-ee394366b5e0
+
+
+
 
 </br></br>
 <p>Data: 04 de Dezembro de 2023 </p>
