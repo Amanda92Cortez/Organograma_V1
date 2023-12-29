@@ -5,12 +5,12 @@
 </p>
 
 # :pushpin: Sobre do projeto
-- `Formação`: Explore React com JavaScript
-- `Curso: React`: React: Desenvolvendo com JavaScript
+- `Formação` Explore React com JavaScript
+- `Curso: React` React: Desenvolvendo com JavaScript
 </br></br>
 
 # :hammer: Funcionalidades do projeto
-- `Funcionalidade`: Cadastrar colaborador(a) no card de cada time com imagem pelo GitHub
+- `Funcionalidade` Cadastrar colaborador(a) no card de cada time com imagem pelo GitHub
 
 # :bookmark_tabs: Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white)
