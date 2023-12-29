@@ -20,9 +20,9 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🛠️ Abrir e rodar o projeto
-- `Baixar projeto`: git clone https://github.com/Amanda92Cortez/Organograma_V1.git
-- `Baixar npm`: npm install
-- `Executar`: npm start
+- `Baixar projeto` git clone https://github.com/Amanda92Cortez/Organograma_V1.git
+- `Baixar npm` npm install
+- `Executar` npm start
 
 ## 📚Telas/Vídeos
 ![image](https://github.com/Amanda92Cortez/Organograma/assets/19363871/b079e83a-23d2-4a2c-8958-38df2a2ecacc)
