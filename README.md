@@ -1,36 +1,37 @@
-<p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADA&color=RED&style=for-the-badge" #vitrinedev/>
-</p>
+<p align="center"> <img src="http://img.shields.io/static/v1?label=STATUS_GERAL&message=FINALIZADA&color=RED&style=for-the-badge" #vitrinedev/> </p>
 
-<h1>Organograma - Alura</h1>
+# Organograma (V1)
+App da simulação de incluir pessoas no time.
 
-# :pushpin: Formações
-- `Formação ` Explore React com JavaScript
+## 🔨 Funcionalidades do projeto
+Cadastrar colaborador(a) no card de cada time com imagem pelo GitHub com Time.
 
-# :pushpin: Cursos
-- `Curso ` React: Desenvolvendo com JavaScript
-   - Descreva as vantagens da utilização do React
-   - Implemente componentes reativos
-   - Investigue e analise mensagens de erro
-   - Modifique e evolua componentes de acordo com a necessidade do projeto
-   - Prototipe uma aplicação do zero até o deploy
+## :bookmark_tabs: Técnicas e tecnologias utilizadas
+As técnicas e tecnologias utilizadas pra isso são:
 
-# :hammer: Funcionalidades do projeto
-- `Funcionalidade ` Cadastrar colaborador(a) no card de cada time com imagem pelo GitHub
-
-# :bookmark_tabs: Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141)
 ![React](https://img.shields.io/badge/React-414141?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🛠️ Abrir e rodar o projeto
-- `Baixar projeto ` git clone https://github.com/Amanda92Cortez/Organograma_V1.git
-- `Baixar npm ` npm install
-- `Executar ` npm start
+## 🎯 Desafio
+Tela de detalhes
+![](img/amostra.gif) GIF ?
 
 ## 📚Telas/Vídeos
 ![image](https://github.com/Amanda92Cortez/Organograma/assets/19363871/b079e83a-23d2-4a2c-8958-38df2a2ecacc)
 
 ![image](https://github.com/Amanda92Cortez/Organograma/assets/19363871/70f31606-e29f-45ea-8161-62dce0385e27)
+
+## 📁 Acesso ao projeto
+Você pode [acessar o código fonte do projeto inicial](https://github.com/Amanda92Cortez/alura-organograma-v1/tree/main) ou [baixá-lo](https://github.com/Amanda92Cortez/alura-organograma-v1/archive/refs/heads/main.zip).
+
+## 🛠️ Abrir e rodar o projeto
+- ` Baixar projeto ` git clone https://github.com/Amanda92Cortez/Organograma_V1.git
+- ` Baixar npm ` npm install
+- ` Executar ` npm start
+
+## 🔎 Observações
+- [ ] Gif rápido
+- [ ] Finalizado
