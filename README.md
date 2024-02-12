@@ -24,9 +24,6 @@ Tela de detalhes
 
 ![image](https://github.com/Amanda92Cortez/Organograma/assets/19363871/70f31606-e29f-45ea-8161-62dce0385e27)
 
-## 📁 Acesso ao projeto
-Você pode [acessar o código fonte do projeto inicial](https://github.com/Amanda92Cortez/alura-organograma-v1/tree/main) ou [baixá-lo](https://github.com/Amanda92Cortez/alura-organograma-v1/archive/refs/heads/main.zip).
-
 ## 🛠️ Abrir e rodar o projeto
 - ` Baixar projeto ` git clone https://github.com/Amanda92Cortez/Organograma_V1.git
 - ` Baixar npm ` npm install
